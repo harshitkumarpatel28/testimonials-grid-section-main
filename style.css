@@ -262,9 +262,9 @@ body {
   .testimonials-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: 1fr 1fr;
     grid-template-areas: "Daniel Daniel Jonathan Kira" "Jeanette Patrick Patrick Kira";
-    grid-gap: 24px;
+    grid-gap: 24px 32px;
     align-items: unset;
   }
   .testimonials-1 {
