@@ -237,6 +237,9 @@ body {
   }
   .testimonials-1 {
     grid-area: Daniel;
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 63.5%;
   }
   .testimonials-2 {
     grid-area: Jonathan;
@@ -272,6 +275,9 @@ body {
     width: 540px;
     height: 288px;
     margin: 0;
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position-x: 86.5%;
   }
   .testimonials-2 {
     grid-area: Jonathan;
