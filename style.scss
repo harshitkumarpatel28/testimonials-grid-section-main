@@ -278,6 +278,7 @@ body {
       "Daniel Daniel Jonathan Kira"
       "Jeanette Patrick Patrick Kira";
     grid-gap: 24px;
+    align-items: unset;
   }
 
   .testimonials-1 {
@@ -291,7 +292,7 @@ body {
     grid-area: Jonathan;
     width: 100%;
     height: 100%;
-    margin: 0 0 0 8px;
+    margin: 0;
   }
 
   .testimonials-3 {
@@ -305,13 +306,13 @@ body {
     grid-area: Patrick;
     width: 100%;
     height: 100%;
-    margin: 0 0 0 8px;
+    margin: 0;
   }
 
   .testimonials-5 {
     grid-area: Kira;
     width: 100%;
     height: 100%;
-    margin: 0 0 0 16px;
+    margin: 0;
   }
 }
